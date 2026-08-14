@@ -9,4 +9,4 @@ The project demonstrates fundamental web development concepts such as:
 - Event handling
 - Basic game logic
 
-Play Rock Paper Scissors against the computer directly in your browser!
+## Play the Game here : (https://arshdeep2006.github.io/firstDev/)

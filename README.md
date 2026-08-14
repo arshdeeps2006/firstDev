@@ -10,4 +10,4 @@ The project demonstrates fundamental web development concepts such as:
 - Basic game logic
 
 ## Play the Game here :
-https://arshdeep2006.github.io/firstDev/
+https://arshdeeps2006.github.io/firstDev/

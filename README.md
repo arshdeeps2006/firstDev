@@ -9,4 +9,5 @@ The project demonstrates fundamental web development concepts such as:
 - Event handling
 - Basic game logic
 
-## Play the Game here : (https://arshdeep2006.github.io/firstDev/)
+## Play the Game here :
+https://arshdeep2006.github.io/firstDev/
